@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfirebase1"]=self["webpackChunkfirebase1"]||[]).push([[443],{524:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var r=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("h1",[e._v(" Vista Nosotros sin usar")])},u=[],a={name:"about-comp",data:function(){return{}}},s=a,c=t(1001),f=(0,c.Z)(s,r,u,!1,null,"355cad5e",null),i=f.exports}}]);
+//# sourceMappingURL=about-legacy.37e26b21.js.map
